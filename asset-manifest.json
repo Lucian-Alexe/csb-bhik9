@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://lucian-alexe.github.io/csb-bhik9/static/css/main.d78b1592.chunk.css",
+    "main.js": "https://lucian-alexe.github.io/csb-bhik9/static/js/main.b0029d4d.chunk.js",
+    "main.js.map": "https://lucian-alexe.github.io/csb-bhik9/static/js/main.b0029d4d.chunk.js.map",
+    "runtime-main.js": "https://lucian-alexe.github.io/csb-bhik9/static/js/runtime-main.0c8df08c.js",
+    "runtime-main.js.map": "https://lucian-alexe.github.io/csb-bhik9/static/js/runtime-main.0c8df08c.js.map",
+    "static/js/2.aa1be7d4.chunk.js": "https://lucian-alexe.github.io/csb-bhik9/static/js/2.aa1be7d4.chunk.js",
+    "static/js/2.aa1be7d4.chunk.js.map": "https://lucian-alexe.github.io/csb-bhik9/static/js/2.aa1be7d4.chunk.js.map",
+    "index.html": "https://lucian-alexe.github.io/csb-bhik9/index.html",
+    "static/css/main.d78b1592.chunk.css.map": "https://lucian-alexe.github.io/csb-bhik9/static/css/main.d78b1592.chunk.css.map",
+    "static/js/2.aa1be7d4.chunk.js.LICENSE.txt": "https://lucian-alexe.github.io/csb-bhik9/static/js/2.aa1be7d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c8df08c.js",
+    "static/js/2.aa1be7d4.chunk.js",
+    "static/css/main.d78b1592.chunk.css",
+    "static/js/main.b0029d4d.chunk.js"
+  ]
+}
